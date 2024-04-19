@@ -3,7 +3,7 @@
 return new Jeff({
   skills: ["TypeScript & JavaScript","React & Next","Node & Express","NoSQL","Microservices","etc..."],
   organization: "Mart",
-  location: "San Francisco (USA)",
+  location: "San Francisco",
   socials: {
     gmail: "jeffersonlopezmendoza343@gmail.com",
     twitter: "https://twitter.com/jefferson__dev",
