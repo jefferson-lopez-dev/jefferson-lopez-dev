@@ -18,6 +18,8 @@ Mart is a web development company with a suite of products designed to solve rea
   <img src="https://res.cloudinary.com/jeffersoncloud/image/upload/v1715885335/mart/tqh0oj2b2zo1nbjlcoxh.svg" alt="Mart Logo" style="border-radius: 50%; width: 150px; height: 150px; overflow: hidden;">
 </p>
 
+Visit the [Mart GitHub Organization](https://github.com/mart-org) for more information.
+
 ### Open Source Contributions
 
 I'm actively involved in the open-source community, contributing to various projects and creating tools that help developers streamline their workflows. You can find my open-source projects on my [GitHub profile](https://github.com/jefferson-lopez-dev).
@@ -34,7 +36,7 @@ I'm actively involved in the open-source community, contributing to various proj
 I'm always open to connecting with like-minded individuals and exploring new opportunities. Feel free to reach out to me through any of the following platforms:
 
 - **Email**: jeffersonlopezmendoza343@gmail.com
-- **Twitter**: [twitter.com/jeffersonlopez](https://twitter.com/jefferson__dev)
+- **Twitter**: [twitter.com/jefferson__dev](https://twitter.com/jefferson__dev)
 
 ## Thank You
 
