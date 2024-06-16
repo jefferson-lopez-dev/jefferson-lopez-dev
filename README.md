@@ -33,9 +33,8 @@ I'm actively involved in the open-source community, contributing to various proj
 
 I'm always open to connecting with like-minded individuals and exploring new opportunities. Feel free to reach out to me through any of the following platforms:
 
-- **Email**: jeffersonlopez@example.com
-- **LinkedIn**: [linkedin.com/in/jefferson-lopez](https://linkedin.com/in/jefferson-lopez)
-- **Twitter**: [twitter.com/jeffersonlopez](https://twitter.com/jeffersonlopez)
+- **Email**: jeffersonlopezmendoza343@gmail.com
+- **Twitter**: [twitter.com/jeffersonlopez](https://twitter.com/jefferson__dev)
 
 ## Thank You
 
