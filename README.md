@@ -13,5 +13,4 @@ Hi, I'm Jefferson Lopez, a 19-year-old web developer from Colombia currently liv
 
 I'm always open to connecting with like-minded individuals and exploring new opportunities. Feel free to reach out to me through any of the following platforms:
 
-- **Email**: jeffersonlopezmendoza343@gmail.com
 - **Twitter**: [twitter.com/jefferson__dev](https://twitter.com/jefferson__dev)
